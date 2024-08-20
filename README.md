@@ -1,2 +1,3 @@
 # thecoder0.github.io
-Custom art portfolio website
+
+#### Simple barebones website I created for my art portfolio in order to learn how to create frontend web applications using HTML and CSS.
